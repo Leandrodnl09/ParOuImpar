@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ParOuImpar\bin\Debug\net6.0\ParOuImpar.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ParOuImpar\bin\Debug\net6.0\ParOuImpar.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ParOuImpar\bin\Debug\net6.0\ParOuImpar.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ParOuImpar\bin\Debug\net6.0\ParOuImpar.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ParOuImpar\bin\Debug\net6.0\ParOuImpar.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ParOuImpar\obj\Debug\net6.0\ParOuImpar.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ParOuImpar\obj\Debug\net6.0\ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ParOuImpar\obj\Debug\net6.0\ParOuImpar.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ParOuImpar\obj\Debug\net6.0\ParOuImpar.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ParOuImpar\obj\Debug\net6.0\ParOuImpar.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ParOuImpar\obj\Debug\net6.0\ParOuImpar.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ParOuImpar\obj\Debug\net6.0\refint\ParOuImpar.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ParOuImpar\obj\Debug\net6.0\ParOuImpar.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ParOuImpar\obj\Debug\net6.0\ParOuImpar.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ParOuImpar\obj\Debug\net6.0\ref\ParOuImpar.dll
